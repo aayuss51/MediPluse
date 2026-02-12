@@ -1,22 +1,6 @@
 
 # MedPulse | Hospital Management System
 
-
-
-
-
-
-
-![Uploading Screenshot 2026-02-11 161514.png…]()
-
-
-
-
-
-
-
-
-
 MedPulse is a modern, comprehensive Hospital Management System (HMS) designed to streamline clinical workflows and improve patient care using integrated AI diagnostics.
 
 ## 🚀 Key Features
